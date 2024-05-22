@@ -27,16 +27,13 @@ My journey has led me to develop a passion for everything AI, and I am now eager
 - SQL
 - Power BI
 - Pytorch
-  
+  https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb)" />
-<img src="https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </div>
 
 ## Projects
