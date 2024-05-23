@@ -10,8 +10,12 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey has led me to develop a passion for everything AI, and I am now eager to transition into this field, specifically aiming to join a as a Data/Business Analyst, and maybe a Data Scientist
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Skills I learned in my projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -36,6 +40,4 @@ My journey has led me to develop a passion for everything AI, and I am now eager
 
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
