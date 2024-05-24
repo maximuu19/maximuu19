@@ -26,14 +26,22 @@ My journey has led me to develop a passion for everything AI, and I am now eager
 ## Skills
 Skills I learned in my projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Implementation of model from paper            | <a href="https://www.kaggle.com/code/abhilashdas/resunet-skin-lesion/notebook">ResUNet++ viability for skin lesion segmentation</a>|
-| RaspBerry Pi implementation of HoG cascades   | <a href="https://github.com/maximuu19/Eye_Blink_casscades">Vehicle drowsiness prevention system</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                            | Associated Project         |
+|--------------------------------------------------|----------------------------|
+| Implementation of model from paper               | <a href="https://www.kaggle.com/code/abhilashdas/resunet-skin-lesion/notebook">ResUNet++ viability for skin lesion segmentation</a>|
+| RaspBerry Pi implementation of HoG cascades      | <a href="https://github.com/maximuu19/Eye_Blink_casscades">Vehicle drowsiness prevention system</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://www.kaggle.com/code/abhilashdas/wgan-with-wp">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of DCGAN with AMP training| <a href="https://www.kaggle.com/code/abhilashdas/dcgan">DCGAN: Deep Convolutional Generative Adversarial Networks</a>|
+
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
 
 ## Tools
 - Python
