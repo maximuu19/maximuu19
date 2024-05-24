@@ -37,7 +37,6 @@ Skills I learned in my projects
 | YouTube Stats visualization using python     | <a href="https://www.kaggle.com/code/abhilashdas/youtube-stats">YouTube Statistics EDA</a>|
 | Fine-Tuned g5-small on summarization task and deployed using streamlit | <a href="https://github.com/maximuu19/text_summarizer">Text Summarizer App, using huggingface</a>|
 | EDA on bank's churn data and discovery of the reasons for customer churn | <a href="https://www.kaggle.com/code/abhilashdas/bank-churn">Bank Customers Churn</a>|
-
 | Coal price forecasting using various approaches, model based, data driven and state-of-the-art models like TimesNet | <a href="https://github.com/maximuu19/">Coal Prices Forecasting using Model Based Approach, Data Driven Approach and NeuralForecast( TimesNet, iTransformer )</a>|
 
 ## Tools
