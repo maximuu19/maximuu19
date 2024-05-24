@@ -38,10 +38,7 @@ Skills I learned in my projects
 | Fine-Tuned g5-small on summarization task and deployed using streamlit | <a href="https://github.com/maximuu19/text_summarizer">Text Summarizer App, using huggingface</a>|
 | EDA on bank's churn data and discovery of the reasons for customer churn | <a href="https://www.kaggle.com/code/abhilashdas/bank-churn">Bank Customers Churn</a>|
 
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+| Coal price forecasting using various approaches, model based, data driven and state-of-the-art models like TimesNet | <a href="https://github.com/maximuu19/">Coal Prices Forecasting using Model Based Approach, Data Driven Approach and NeuralForecast( TimesNet, iTransformer )</a>|
 
 ## Tools
 - Python
