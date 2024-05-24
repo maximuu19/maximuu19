@@ -11,9 +11,18 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey has led me to develop a passion for everything AI, and I am now eager to transition into this field, specifically aiming to join a as a Data/Business Analyst, and maybe a Data Scientist
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- ResUNet++ viability for skin lesion segmentation
+- Vehicle drowsiness prevention system
+- WGAN: Wasserstein Generative Adversarial Networks
+- DCGAN: Deep Convolutional Generative Adversarial Networks
+- Live Weather Interactive Map using Folium
+- Fast food EDA
+- YouTube Statistics EDA
+- Text Summarizer App, using huggingface
+- Bank Customers Churn
+- Coal Prices Forecasting using Model Based Approach, Data Driven Approach and NeuralForecast( TimesNet, iTransformer )
 
+  
 ## Skills
 Skills I learned in my projects
 
