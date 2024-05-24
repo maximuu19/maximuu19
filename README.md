@@ -3,12 +3,16 @@
 
 [Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+- 👋 Hi, I am Abhilash
+- 👀 I’m interested in data and it's effect on our world
+- 🌱 I’m currently learning the inner-workings of data
+- 📫 How to reach me - You can msg me through linkedin
+- ⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
 
 
 ## Objective
 
-My journey has led me to develop a passion for everything AI, and I am now eager to transition into this field, specifically aiming to join a as a Data/Business Analyst, and maybe a Data Scientist
+My journey has led me to develop a passion for everything AI, and I am now eager to transition into this field, specifically aiming to join as a Data/Business Analyst, and maybe a Data Scientist.
 
 ## Projects
 - ResUNet++ viability for skin lesion segmentation
@@ -44,7 +48,12 @@ Skills I learned in my projects
 - SQL
 - Power BI
 - Pytorch
-  https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb
+- Tensorflow
+- EDA
+- Data Visualization
+- CRISP-ML(Q)
+- Time Series Analysis
+  
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
