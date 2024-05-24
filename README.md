@@ -28,8 +28,8 @@ Skills I learned in my projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Implementation of model from paper            | <a href="https://www.kaggle.com/code/abhilashdas/resunet-skin-lesion/notebook">ResUNet++ viability for skin lesion segmentation</a>|
+| RaspBerry Pi implementation of HoG cascades   | <a href="https://github.com/maximuu19/Eye_Blink_casscades">Vehicle drowsiness prevention system</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
