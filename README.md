@@ -1,7 +1,6 @@
 # Hello, I'm Abhilash
 <a href="https://www.linkedin.com/in/abhilash-das-helps-you/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 - 👋 Hi, I am Abhilash
 - 👀 I’m interested in data and it's effect on our world
@@ -56,10 +55,9 @@ Skills I learned in my projects
   
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb">Data Sciene Diploma Certificate</a>
-
 </div>
 
 
