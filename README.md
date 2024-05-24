@@ -32,9 +32,10 @@ Skills I learned in my projects
 | RaspBerry Pi implementation of HoG cascades      | <a href="https://github.com/maximuu19/Eye_Blink_casscades">Vehicle drowsiness prevention system</a>|
 | PyTorch implementation of WGAN with AMP training | <a href="https://www.kaggle.com/code/abhilashdas/wgan-with-wp">WGAN: Wasserstein Generative Adversarial Networks</a>|
 | PyTorch implementation of DCGAN with AMP training| <a href="https://www.kaggle.com/code/abhilashdas/dcgan">DCGAN: Deep Convolutional Generative Adversarial Networks</a>|
+| Live weather map using Folium and python         | <a href="https://www.kaggle.com/code/abhilashdas/weather-data-within-the-last-24-hours-with-maps">Live Weather Interactive Map using Folium</a>|
+| Subway Nutrition EDA using relevant python packages | <a href="https://www.kaggle.com/code/abhilashdas/fast-food-yum-yum-2-me">Fast food EDA</a>|
 
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
-| PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
+
 | PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
 | PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
 | PyTorch implementation of WGAN with AMP training | <a href="https://github.com/maximuu19/Eye_Blink_casscades">WGAN: Wasserstein Generative Adversarial Networks</a>|
