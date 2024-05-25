@@ -4,9 +4,8 @@
 
 - 👋 Hi, I am Abhilash
 - 👀 I’m interested in data and it's effect on our world
-- 🌱 I’m currently learning the inner-workings of data
-- 📫 How to reach me - You can msg me through linkedin
-- ⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
+- 🌱 How to reach me - You can msg me through linkedin
+- ⚡ I would like to do something worthwhile in this life.
 
 
 ## Objective
