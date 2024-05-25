@@ -5,7 +5,7 @@
 - 👋 Hi, I am Abhilash
 - 👀 I’m interested in data and it's effect on our world
 - 🌱 How to reach me - You can msg me through linkedin
-- ⚡ I would like to do something worthwhile in this life.
+- ⚡ I would like to do something worthwhile.
 
 
 ## Objective
